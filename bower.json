@@ -1,0 +1,22 @@
+{
+  "name": "nod",
+  "description": "Frontend input validation",
+  "main": "nod.js",
+  "authors": [
+    "Gorm Casper"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nod",
+    "validation",
+    "frontend"
+  ],
+  "homepage": "https://github.com/boylove142/nod",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
