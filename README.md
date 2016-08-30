@@ -1,6 +1,6 @@
-# Nod v.2.0.12
+# Nod v.2.0.12 - Frontend input validation
 
-Frontend input validation
+This project was fork to publish to bower since the author didn't do it.
 
 
 ## Practical info
